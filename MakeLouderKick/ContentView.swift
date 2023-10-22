@@ -19,7 +19,7 @@ struct ContentView: View {
 
 
 struct CustomSlider: View {
-    @State private var value = 0.5
+    @State private var value = 0.0
     @State private var scaleY = 1.0
     @State private var scaleX = 1.0
 
